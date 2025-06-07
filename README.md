@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
 </p>
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=smusenko" alt="smusenko" />
+    <img src="https://github-trophies.vercel.app/?username=smusenko&no-frame=true&column=6&row=1" alt="smusenko" />
 </p>
 
 <ul align="left">
